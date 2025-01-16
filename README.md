@@ -4,6 +4,10 @@
 
 https://youtu.be/veyLj10lawY
 
+## Description of Application
+
+The README Generator is a command-line application designed to facilitate the the process of creating professional and comprehensive README.md files for software projects. By using the Inquirer package, the application collects user input through a series of prompts and generates a high-quality README file based on the user's responses.
+
 ## Your Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
