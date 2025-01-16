@@ -6,7 +6,7 @@ https://youtu.be/veyLj10lawY
 
 ## Description of Application
 
-The README Generator is a command-line application designed to facilitate the the process of creating professional and comprehensive README.md files for software projects. By using the Inquirer package, the application collects user input through a series of prompts and generates a high-quality README file based on the user's responses.
+The README Generator is a command-line application designed to facilitate the process of creating professional and comprehensive README.md files for software projects. By using the Inquirer package, the application collects user input through a series of prompts and generates a high-quality README file based on the user's responses.
 
 ## Your Task
 
